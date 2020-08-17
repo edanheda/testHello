@@ -8,6 +8,8 @@ public class HelloGit {
       System.out.print("After Git commit");
 	
       System.out.print("Testing for Git");
+		
+      System.out.print("Test to create new branch");
 	}
 
 }
