@@ -6,6 +6,8 @@ public class HelloGit {
 		// TODO Auto-generated method stub
       System.out.print("Hello Git");
       System.out.print("After Git commit");
+	
+      System.out.print("Testing for Git");
 	}
 
 }
